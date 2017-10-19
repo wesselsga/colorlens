@@ -13,5 +13,7 @@ ColorLens is a simple Windows utility to simply capture the color of the current
   * `Escape` key to cancel
   * `Return` key to accept and copy to clipboard
 * Runs in the background - accessible via System Tray Icon
+
+[Download the latest release](https://github.com/wesselsga/colorlens/releases/latest)
  
 
