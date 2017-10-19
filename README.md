@@ -8,5 +8,9 @@ Features:
   * Press X key for Hex
   * Press R key for RGB
   * Press H key for HSL
+* Color string is automatically copied to clipboard on mouse down
 * Keyboard control for nudging to exact pixel (press arrow keys while capturing)
+  * Escape key to cancel
+  * Return key to accept and copy to clipboard
+ 
 
