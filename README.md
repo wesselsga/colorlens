@@ -5,13 +5,13 @@ ColorLens is a simple Windows utility to simply capture the color of the current
 
 ## Features:
 * Hex, RGB, and HSL color format strings
-  * Press X key for Hex
-  * Press R key for RGB
-  * Press H key for HSL
+  * Press `X` key for Hex
+  * Press `R` key for RGB
+  * Press `H` key for HSL
 * Color string is automatically copied to clipboard on mouse down
 * Keyboard control for nudging to exact pixel (press arrow keys while capturing)
-  * Escape key to cancel
-  * Return key to accept and copy to clipboard
+  * `Escape` key to cancel
+  * `Return` key to accept and copy to clipboard
 * Runs in the background - accessible via System Tray Icon
  
 
